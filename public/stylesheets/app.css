@@ -9,3 +9,7 @@ i.icon {
 h1 {
 	margin-top: 60.0px;
 }
+
+#delete {
+	display: inline;
+}
